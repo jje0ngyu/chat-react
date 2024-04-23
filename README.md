@@ -1,0 +1,2 @@
+# chatCode
+clone discod
